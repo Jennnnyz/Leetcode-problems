@@ -1,0 +1,5 @@
+Given number n. Print number from 1 to n. But:
+
+when number is divided by 3, print "fizz".
+when number is divided by 5, print "buzz".
+when number is divided by both 3 and 5, print "fizz buzz".
